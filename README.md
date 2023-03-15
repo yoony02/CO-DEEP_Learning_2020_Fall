@@ -12,7 +12,7 @@ Project 기간이 끝나고 결과물을 다듬어 같은 주제로 iConference 
 ### **Embedding-based Neural Network Models for Book Recommendation in University Libraries**
 
 > *Recommendation systems have been widely used in various commercial applications for predicting the rating a user may give to an item. 
-To encourage students to read more books, personalized book rec- ommendation systems are of great interest in university libraries. 
+To encourage students to read more books, personalized book recommendation systems are of great interest in university libraries. 
 Because university libraries do not ask students to rate books that they borrowed, book reviews and ratings are not available. 
 Without book ratings, implementing personalized book recommendation systems in libraries is a challenging problem. 
 In this study, we propose a library book recommen- dation system that uses embedding based neural network models. 
