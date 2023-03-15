@@ -1,4 +1,4 @@
-## CO-DEEP_Learning_2020_Fall
+## Co-Deep Learning 2020 Fall
 
 2020년 2학기 성균관대학교 Co-Deep Learning Project 결과물을 올려둔 곳입니다. 
 Project 기간이 끝나고 결과물을 다듬어 같은 주제로 iConference 2021의 Workshop으로 열린 <a href = 'https://ai-informetrics.github.io/'>1st Workshop on AI + Informetrics (AII2021)</a>에 참가했습니다.
